@@ -74,7 +74,7 @@ echo "重启Nginx服务..."
 /etc/init.d/nginx restart
 
 # 下载并修改M3U文件
-M3U_URL="https://raw.githubusercontent.com/tmxk2021/CF-IPTV/refs/heads/main/mytv.m3u"
+M3U_URL="https://raw.githubusercontent.com/fingerworks/CF-IPTV/refs/heads/main/mytv.m3u"
 M3U_PATH="$WEB_ROOT/mytv.m3u"
 echo "下载M3U文件..."
 curl -k -o "$M3U_PATH" "$M3U_URL"
