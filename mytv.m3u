@@ -172,8 +172,7 @@ https://live.hkdvb.com/hls/live/710.m3u8?token=你的token
 #EXTINF:-1 tvg-id="711" tvg-name="SPOTV 2" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="體育", SPOTV 2[直播]
 https://live.hkdvb.com/hls/live/711.m3u8?token=你的token
 
-#EXTINF:-1 group-title="{VOD}    HKDVB159
-#EXTM3U
+#EXTINF:-1 group-title="vod", vod
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:-1 group-title="82 TVB PLUS", 82 TVB PLUS
 #EXTINF:-1,group-title="82 TVB PLUS", 2025-01-31 20:00:00  美食新聞報道[粵]
