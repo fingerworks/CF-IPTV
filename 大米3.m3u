@@ -1,0 +1,427 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1综合.png" group-title="央视",CCTV1综合
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2财经.png" group-title="央视",CCTV2财经
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺.png" group-title="央视",CCTV3综艺
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4中文国际.png" group-title="央视",CCTV4中文国际
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5体育.png" group-title="央视",CCTV5体育
+http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6电影.png" group-title="央视",CCTV6电影
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7国防军事.png" group-title="央视",CCTV7国防军事
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8电视剧.png" group-title="央视",CCTV8电视剧
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-logo="https://live.fanmingming.com/tv/CCTV9纪录.png" group-title="央视",CCTV9纪录
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://live.fanmingming.com/tv/CCTV10科教.png" group-title="央视",CCTV10科教
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11戏曲.png" group-title="央视",CCTV11戏曲
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://live.fanmingming.com/tv/CCTV12社会与法.png" group-title="央视",CCTV12社会与法
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13新闻.png" group-title="央视",CCTV13新闻
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14少儿.png" group-title="央视",CCTV14少儿
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15音乐.png" group-title="央视",CCTV15音乐
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-name="CCTV16奥利匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16奥利匹克.png" group-title="央视",CCTV16奥利匹克
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-name="CCTV17农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17农业农村.png" group-title="央视",CCTV17农业农村
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事.png" group-title="央视",CCTV5+体育赛事
+http://74.91.26.218:82/live/cctv5p.m3u8
+#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5体育.png" group-title="体育",CCTV5体育
+http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV16奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16奥林匹克.png" group-title="体育",CCTV16奥林匹克
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事.png" group-title="体育",CCTV5+体育赛事
+http://74.91.26.218:82/live/cctv5p.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="体育",广东体育
+http://74.91.26.218:82/live/cctv5p.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港",翡翠台
+http://74.91.26.218:82/live/jade.m3u8
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港",无线新闻台
+http://74.91.26.218:82/live/inews.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVB Plus.png" group-title="香港",TVB Plus
+http://74.91.26.218:82/live/j2.m3u8
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港",TVB星河
+http://74.91.26.218:82/live/tvbxh.m3u8
+#EXTINF:-1 tvg-name="TVB千禧经典台" tvg-logo="https://live.fanmingming.com/tv/TVB千禧经典台.png" group-title="香港",TVB千禧经典台
+http://74.91.26.218:82/live/tvbjd.m3u8
+#EXTINF:-1 tvg-name="NOW星影台" tvg-logo="https://live.fanmingming.com/tv/NOW星影台.png" group-title="香港",NOW星影台
+http://74.91.26.218:82/live/nowxy.m3u8
+#EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="https://live.fanmingming.com/tv/NOW爆谷台.png" group-title="香港",NOW爆谷台
+http://74.91.26.218:82/live/nowbg.m3u8
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.com/tv/美亚电影台.png" group-title="香港",美亚电影台
+http://74.91.26.218:82/live/mydy.m3u8
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png" group-title="香港",天映频道
+http://74.91.26.218:82/live/typd.m3u8
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://live.fanmingming.com/tv/天映经典.png" group-title="香港",天映经典
+http://74.91.26.218:82/live/tyjd.m3u8
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾",中视
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="台湾",中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://live.fanmingming.com/tv/中视经典.png" group-title="台湾",中视经典
+http://74.91.26.218:82/live/ctvjd.m3u8
+#EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://live.fanmingming.com/tv/中视菁采.png" group-title="台湾",中视菁采
+http://74.91.26.218:82/live/ctvjc.m3u8
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="台湾",台视
+http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="台湾",台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://live.fanmingming.com/tv/台视综合.png" group-title="台湾",台视综合
+http://74.91.26.218:82/live/ttvzh.m3u8
+#EXTINF:-1 tvg-name="台视财经" tvg-logo="https://live.fanmingming.com/tv/台视财经.png" group-title="台湾",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="台湾",华视
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 tvg-name="华视新闻资讯" tvg-logo="https://live.fanmingming.com/tv/华视新闻资讯.png" group-title="台湾",华视新闻资讯
+http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 tvg-name="华视教育体育文化" tvg-logo="https://live.fanmingming.com/tv/华视教育体育文化.png" group-title="台湾",华视教育体育文化
+http://74.91.26.218:82/live/ctsjy.m3u8
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="台湾",民视
+http://74.91.26.218:82/live/ftv.m3u8
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="台湾",民视新闻台
+http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="台湾",民视台湾台
+http://74.91.26.218:82/live/ftvtw.m3u8
+#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="台湾",民视第一台
+http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 tvg-name="公视" tvg-logo="https://live.fanmingming.com/tv/公视.png" group-title="台湾",公视
+http://74.91.26.218:82/live/pts.m3u8
+#EXTINF:-1 tvg-name="公视台语台" tvg-logo="https://live.fanmingming.com/tv/公视台语台.png" group-title="台湾",公视台语台
+http://74.91.26.218:82/live/ptsty.m3u8
+#EXTINF:-1 tvg-name="小公视" tvg-logo="https://live.fanmingming.com/tv/小公视.png" group-title="台湾",小公视
+http://74.91.26.218:82/live/ptsse.m3u8
+#EXTINF:-1 tvg-name="驚艷" tvg-logo="https://live.fanmingming.com/tv/驚艷.png" group-title="午夜台湾",驚艷
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 tvg-name="潘朵拉完美" tvg-logo="https://live.fanmingming.com/tv/潘朵拉完美.png" group-title="午夜台湾",潘朵拉完美
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 tvg-name="香蕉 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts" tvg-logo="https://live.fanmingming.com/tv/香蕉 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts.png" group-title="午夜台湾",香蕉 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+undefined
+#EXTINF:-1 tvg-name="松視1台" tvg-logo="https://live.fanmingming.com/tv/松視1台.png" group-title="午夜台湾",松視1台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 tvg-name="松視2台" tvg-logo="https://live.fanmingming.com/tv/松視2台.png" group-title="午夜台湾",松視2台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 tvg-name="松視3台http://15.204.105.50:25461/live-G2s9zK2n9m/xDtwVfWM8T/90.ts" tvg-logo="https://live.fanmingming.com/tv/松視3台http://15.204.105.50:25461/live-G2s9zK2n9m/xDtwVfWM8T/90.ts.png" group-title="午夜台湾",松視3台http://15.204.105.50:25461/live-G2s9zK2n9m/xDtwVfWM8T/90.ts
+undefined
+#EXTINF:-1 tvg-name="极限" tvg-logo="https://live.fanmingming.com/tv/极限.png" group-title="午夜台湾",极限
+http://hls-pull-wicketpw.speedws.com:80/live/9f8699ca838300fdfc05c85b93c6d22c.flv
+#EXTINF:-1 tvg-name="happy" tvg-logo="https://live.fanmingming.com/tv/happy.png" group-title="午夜台湾",happy
+http://hls-pull-wicketpw.speedws.com:80/live/4b3f97f1c9a0ea8c7f31ca7a00ae9422.flv
+#EXTINF:-1 tvg-name="香蕉" tvg-logo="https://live.fanmingming.com/tv/香蕉.png" group-title="午夜台湾",香蕉
+http://hls-pull-wicketpw.speedws.com:80/live/9a1366718c0ee7a81244761ccefb0ab0.flv
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="午夜台湾",惊艳
+http://hls-pull-wicketpw.speedws.com:80/live/69d30b94813d66c0292bb3f82e150ae7.flv
+#EXTINF:-1 tvg-name="潘多拉" tvg-logo="https://live.fanmingming.com/tv/潘多拉.png" group-title="午夜台湾",潘多拉
+http://hls-pull-wicketpw.speedws.com:80/live/4119fc79dbb3f1356367936c9df08aed.flv
+#EXTINF:-1 tvg-name="彩虹电影" tvg-logo="https://live.fanmingming.com/tv/彩虹电影.png" group-title="午夜台湾",彩虹电影
+http://hls-pull-wicketpw.speedws.com:80/live/2229eb3447f97c37805fc84fe5428918.flv
+#EXTINF:-1 tvg-name="彩虹k" tvg-logo="https://live.fanmingming.com/tv/彩虹k.png" group-title="午夜台湾",彩虹k
+http://hls-pull-wicketpw.speedws.com:80/live/ce94d84e32bf87f6fdfe8131eb3a644f.flv
+#EXTINF:-1 tvg-name="彩虹e" tvg-logo="https://live.fanmingming.com/tv/彩虹e.png" group-title="午夜台湾",彩虹e
+http://hls-pull-wicketpw.speedws.com:80/live/3999535711c92ea4c209086ceb313981.flv
+#EXTINF:-1 tvg-name="松视3" tvg-logo="https://live.fanmingming.com/tv/松视3.png" group-title="午夜台湾",松视3
+http://hls-pull-wicketpw.speedws.com:80/live/cd29448a20978b78c36684f2c8b3139b.flv
+#EXTINF:-1 tvg-name="松视1" tvg-logo="https://live.fanmingming.com/tv/松视1.png" group-title="午夜台湾",松视1
+http://hls-pull-wicketpw.speedws.com:80/live/85ea2f7e99372c867d7210509d0194e6.flv
+#EXTINF:-1 tvg-name="japanhdv" tvg-logo="https://live.fanmingming.com/tv/japanhdv.png" group-title="午夜台湾",japanhdv
+http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
+#EXTINF:-1 tvg-name="carib-042817江波" tvg-logo="https://live.fanmingming.com/tv/carib-042817江波.png" group-title="日韩影片_88640",carib-042817江波
+https://fc.maa1804.com/d/avpcfaqmzi/avpcfaqmzi.m3u8
+#EXTINF:-1 tvg-name="carib-031717木村" tvg-logo="https://live.fanmingming.com/tv/carib-031717木村.png" group-title="日韩影片_88640",carib-031717木村
+https://fc.maa1804.com/f/xnfyxelpgc/xnfyxelpgc.m3u8
+#EXTINF:-1 tvg-name="carib-080717总4名" tvg-logo="https://live.fanmingming.com/tv/carib-080717总4名.png" group-title="日韩影片_88640",carib-080717总4名
+https://fc.maa1804.com/m/ajtnayynwz/ajtnayynwz.m3u8
+#EXTINF:-1 tvg-name="carib-081217折原" tvg-logo="https://live.fanmingming.com/tv/carib-081217折原.png" group-title="日韩影片_88640",carib-081217折原
+https://fc.maa1804.com/c/huevucfsfc/huevucfsfc.m3u8
+#EXTINF:-1 tvg-name="carib-090217水谷" tvg-logo="https://live.fanmingming.com/tv/carib-090217水谷.png" group-title="日韩影片_88640",carib-090217水谷
+https://fc.maa1804.com/b/xbfiifhzht/xbfiifhzht.m3u8
+#EXTINF:-1 tvg-name="carib-082617总4名" tvg-logo="https://live.fanmingming.com/tv/carib-082617总4名.png" group-title="日韩影片_88640",carib-082617总4名
+https://fc.maa1804.com/d/cticibhzwg/cticibhzwg.m3u8
+#EXTINF:-1 tvg-name="carib-090917总6名" tvg-logo="https://live.fanmingming.com/tv/carib-090917总6名.png" group-title="日韩影片_88640",carib-090917总6名
+https://fc.maa1804.com/n/oganatfxeo/oganatfxeo.m3u8
+#EXTINF:-1 tvg-name="carib-091517美星" tvg-logo="https://live.fanmingming.com/tv/carib-091517美星.png" group-title="日韩影片_88640",carib-091517美星
+https://fc.maa1804.com/e/drxhmgtalk/drxhmgtalk.m3u8
+#EXTINF:-1 tvg-name="carib363西川" tvg-logo="https://live.fanmingming.com/tv/carib363西川.png" group-title="日韩影片_88640",carib363西川
+https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
+#EXTINF:-1 tvg-name="Kpop Girl Does Porn" tvg-logo="https://live.fanmingming.com/tv/Kpop Girl Does Porn.png" group-title="日韩影片_88640",Kpop Girl Does Porn
+http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8
+#EXTINF:-1 tvg-name="学生眼中的女老师" tvg-logo="https://live.fanmingming.com/tv/学生眼中的女老师.png" group-title="日韩影片_88640",学生眼中的女老师
+https://vip15.play-cdn15.com/20230830/24366_2f5cc427/index.m3u8
+#EXTINF:-1 tvg-name="春宫图" tvg-logo="https://live.fanmingming.com/tv/春宫图.png" group-title="日韩影片_88640",春宫图
+https://player.putaoplayer.com:166/20221226/F82CF3E155F9CE12/hls/1000k/index.m3u8
+#EXTINF:-1 tvg-name="マジックミラー号 「えっ" tvg-logo="https://live.fanmingming.com/tv/マジックミラー号 「えっ.png" group-title="日韩影片_88640",マジックミラー号 「えっ
+https://player.putaoplayer.com:166/20220525/63B81EF67AAC688C/hls/2000k/index.m3u8
+#EXTINF:-1 tvg-name="コスプレアイドルに" tvg-logo="https://live.fanmingming.com/tv/コスプレアイドルに.png" group-title="日韩影片_88640",コスプレアイドルに
+https://cf005.paopao.video:443/9C3C292CD89D64F2E8A14717A50881B08E7105B9
+#EXTINF:-1 tvg-name="JOA" tvg-logo="https://live.fanmingming.com/tv/JOA.png" group-title="日韩影片_88640",JOA
+https://2.ddyunbo.com/20190914/vL0TDJOa/index.m3u8
+#EXTINF:-1 tvg-name="1pon081712k" tvg-logo="https://live.fanmingming.com/tv/1pon081712k.png" group-title="日韩影片_88640",1pon081712k
+https://f005.paopao.video:443/C6AF681FDD0B9D9BFF8150630F0E1B56CF491DCD
+#EXTINF:-1 tvg-name="012823_001-1pon" tvg-logo="https://live.fanmingming.com/tv/012823_001-1pon.png" group-title="日韩影片_88640",012823_001-1pon
+https://f005.paopao.video:443/375BCA6C2E5BF6817E6778681D6535B5FE8318E7
+#EXTINF:-1 tvg-name="1pon_川原みのりエンドレスセックス" tvg-logo="https://live.fanmingming.com/tv/1pon_川原みのりエンドレスセックス.png" group-title="日韩影片_88640",1pon_川原みのりエンドレスセックス
+https://vip3.lbbf9.com/20220113/subsDqjy/1000kb/hls/index.m3u8
+#EXTINF:-1 tvg-name="1pon113017_612市来美保究極マゾ" tvg-logo="https://live.fanmingming.com/tv/1pon113017_612市来美保究極マゾ.png" group-title="日韩影片_88640",1pon113017_612市来美保究極マゾ
+https://www.lbbf9.com/20210617/BQKojYIM/700kb/hls/index.m3u8
+#EXTINF:-1 tvg-name="1pon113017_612市来美保究極マゾhttps://www.lbbf9.com/20210617/ox8fTZKt/700kb/hls/index.m3u8" tvg-logo="https://live.fanmingming.com/tv/1pon113017_612市来美保究極マゾhttps://www.lbbf9.com/20210617/ox8fTZKt/700kb/hls/index.m3u8.png" group-title="日韩影片_88640",1pon113017_612市来美保究極マゾhttps://www.lbbf9.com/20210617/ox8fTZKt/700kb/hls/index.m3u8
+undefined
+#EXTINF:-1 tvg-name="1pon061110_854" tvg-logo="https://live.fanmingming.com/tv/1pon061110_854.png" group-title="日韩影片_88640",1pon061110_854
+https://www.lbbf9.com/20200521/p3mHHHdx/700kb/hls/index.m3u8
+#EXTINF:-1 tvg-name="1pon_北条麻妃美痴女" tvg-logo="https://live.fanmingming.com/tv/1pon_北条麻妃美痴女.png" group-title="日韩影片_88640",1pon_北条麻妃美痴女
+https://vip3.lbbf9.com/20220109/mTNDPovo/1000kb/hls/index.m3u8
+#EXTINF:-1 tvg-name="heyzo1031" tvg-logo="https://live.fanmingming.com/tv/heyzo1031.png" group-title="日韩影片_88640",heyzo1031
+https://f005.paopao.video:443/0BD73681E256D14FEE871B6B5DC45D2C86DB1F9C
+#EXTINF:-1 tvg-name="一本道_1" tvg-logo="https://live.fanmingming.com/tv/一本道_1.png" group-title="一本道",一本道_1
+https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+#EXTINF:-1 tvg-name="一本道_2" tvg-logo="https://live.fanmingming.com/tv/一本道_2.png" group-title="一本道",一本道_2
+https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+#EXTINF:-1 tvg-name="一本道_3" tvg-logo="https://live.fanmingming.com/tv/一本道_3.png" group-title="一本道",一本道_3
+https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
+#EXTINF:-1 tvg-name="一本道_4" tvg-logo="https://live.fanmingming.com/tv/一本道_4.png" group-title="一本道",一本道_4
+https://vip4.ddyunbo.com/20210208/uWwFdRB7/index.m3u8
+#EXTINF:-1 tvg-name="一本道_5" tvg-logo="https://live.fanmingming.com/tv/一本道_5.png" group-title="一本道",一本道_5
+https://vip4.ddyunbo.com/20210208/EZRbwZn4/index.m3u8
+#EXTINF:-1 tvg-name="一本道_6" tvg-logo="https://live.fanmingming.com/tv/一本道_6.png" group-title="一本道",一本道_6
+https://vip4.ddyunbo.com/20210207/Lyhqjp3z/index.m3u8
+#EXTINF:-1 tvg-name="一本道_7" tvg-logo="https://live.fanmingming.com/tv/一本道_7.png" group-title="一本道",一本道_7
+https://vip4.ddyunbo.com/20210203/DYtc79vE/index.m3u8
+#EXTINF:-1 tvg-name="一本道_8" tvg-logo="https://live.fanmingming.com/tv/一本道_8.png" group-title="一本道",一本道_8
+https://vip4.ddyunbo.com/20210202/cy0urBhD/index.m3u8
+#EXTINF:-1 tvg-name="一本道_9" tvg-logo="https://live.fanmingming.com/tv/一本道_9.png" group-title="一本道",一本道_9
+https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8
+#EXTINF:-1 tvg-name="一本道_10" tvg-logo="https://live.fanmingming.com/tv/一本道_10.png" group-title="一本道",一本道_10
+https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8
+#EXTINF:-1 tvg-name="一本道_11" tvg-logo="https://live.fanmingming.com/tv/一本道_11.png" group-title="一本道",一本道_11
+https://vip4.ddyunbo.com/20210202/6wLYbWPq/index.m3u8
+#EXTINF:-1 tvg-name="一本道_12" tvg-logo="https://live.fanmingming.com/tv/一本道_12.png" group-title="一本道",一本道_12
+https://vip4.ddyunbo.com/20190904/HqGckgKl/index.m3u8
+#EXTINF:-1 tvg-name="一本道_13" tvg-logo="https://live.fanmingming.com/tv/一本道_13.png" group-title="一本道",一本道_13
+https://vip4.ddyunbo.com/20190904/m94xaoPh/index.m3u8
+#EXTINF:-1 tvg-name="一本道_14" tvg-logo="https://live.fanmingming.com/tv/一本道_14.png" group-title="一本道",一本道_14
+https://vip4.ddyunbo.com/20190908/1oZ5V2g2/index.m3u8
+#EXTINF:-1 tvg-name="一本道_15" tvg-logo="https://live.fanmingming.com/tv/一本道_15.png" group-title="一本道",一本道_15
+https://vip4.ddyunbo.com/20190904/wJoZlwtT/index.m3u8
+#EXTINF:-1 tvg-name="一本道_16" tvg-logo="https://live.fanmingming.com/tv/一本道_16.png" group-title="一本道",一本道_16
+https://vip4.ddyunbo.com/20190904/ZnGN7sEl/index.m3u8
+#EXTINF:-1 tvg-name="一本道_18" tvg-logo="https://live.fanmingming.com/tv/一本道_18.png" group-title="一本道",一本道_18
+https://vip4.ddyunbo.com/20190908/ETghLd5D/index.m3u8
+#EXTINF:-1 tvg-name="一本道_20" tvg-logo="https://live.fanmingming.com/tv/一本道_20.png" group-title="一本道",一本道_20
+https://vip4.ddyunbo.com/20190908/zSd2DI9R/index.m3u8
+#EXTINF:-1 tvg-name="一本道_34" tvg-logo="https://live.fanmingming.com/tv/一本道_34.png" group-title="一本道",一本道_34
+https://vip4.ddyunbo.com/20191007/IFlq5eON/index.m3u8
+#EXTINF:-1 tvg-name="一本道_36" tvg-logo="https://live.fanmingming.com/tv/一本道_36.png" group-title="一本道",一本道_36
+https://vip4.ddyunbo.com/20190907/PH1oGegu/index.m3u8
+#EXTINF:-1 tvg-name="一本道_37" tvg-logo="https://live.fanmingming.com/tv/一本道_37.png" group-title="一本道",一本道_37
+https://vip4.ddyunbo.com/20191206/aIGd1S2S/index.m3u8
+#EXTINF:-1 tvg-name="一本道_39" tvg-logo="https://live.fanmingming.com/tv/一本道_39.png" group-title="一本道",一本道_39
+https://vip4.ddyunbo.com/20191209/eOWqpnjK/index.m3u8
+#EXTINF:-1 tvg-name="一本道_40" tvg-logo="https://live.fanmingming.com/tv/一本道_40.png" group-title="一本道",一本道_40
+https://vip4.ddyunbo.com/20191203/kT2Rfcof/index.m3u8
+#EXTINF:-1 tvg-name="一本道_41" tvg-logo="https://live.fanmingming.com/tv/一本道_41.png" group-title="一本道",一本道_41
+https://vip4.ddyunbo.com/20191203/eKcaCDs1/index.m3u8
+#EXTINF:-1 tvg-name="一本道_42" tvg-logo="https://live.fanmingming.com/tv/一本道_42.png" group-title="一本道",一本道_42
+https://vip4.ddyunbo.com/20191204/jouQzYVh/index.m3u8
+#EXTINF:-1 tvg-name="一本道_43" tvg-logo="https://live.fanmingming.com/tv/一本道_43.png" group-title="一本道",一本道_43
+https://vip4.ddyunbo.com/20190824/InhHOPJz/index.m3u8
+#EXTINF:-1 tvg-name="一本道_44" tvg-logo="https://live.fanmingming.com/tv/一本道_44.png" group-title="一本道",一本道_44
+https://vip4.ddyunbo.com/20191201/yKe6LATy/index.m3u8
+#EXTINF:-1 tvg-name="一本道_46" tvg-logo="https://live.fanmingming.com/tv/一本道_46.png" group-title="一本道",一本道_46
+https://vip4.ddyunbo.com/20191104/NAZTGvOC/index.m3u8
+#EXTINF:-1 tvg-name="一本道_47" tvg-logo="https://live.fanmingming.com/tv/一本道_47.png" group-title="一本道",一本道_47
+https://vip4.ddyunbo.com/20190724/fpVllSSA/index.m3u8
+#EXTINF:-1 tvg-name="一本道_48" tvg-logo="https://live.fanmingming.com/tv/一本道_48.png" group-title="一本道",一本道_48
+https://vip4.ddyunbo.com/20191115/nz0OLAD7/index.m3u8
+#EXTINF:-1 tvg-name="一本道_50" tvg-logo="https://live.fanmingming.com/tv/一本道_50.png" group-title="一本道",一本道_50
+https://vip4.ddyunbo.com/20191111/YQ1Jvlo7/index.m3u8
+#EXTINF:-1 tvg-name="一本道_51" tvg-logo="https://live.fanmingming.com/tv/一本道_51.png" group-title="一本道",一本道_51
+https://vip4.ddyunbo.com/20191203/mXPJeA8L/index.m3u8
+#EXTINF:-1 tvg-name="一本道_54" tvg-logo="https://live.fanmingming.com/tv/一本道_54.png" group-title="一本道",一本道_54
+https://vip4.ddyunbo.com/20191211/EmnFBcTv/index.m3u8
+#EXTINF:-1 tvg-name="一本道_56" tvg-logo="https://live.fanmingming.com/tv/一本道_56.png" group-title="一本道",一本道_56
+https://vip4.ddyunbo.com/20191207/3l1NKbd9/index.m3u8
+#EXTINF:-1 tvg-name="一本道_58" tvg-logo="https://live.fanmingming.com/tv/一本道_58.png" group-title="一本道",一本道_58
+https://vip4.ddyunbo.com/20191121/NoBsuuFA/index.m3u8
+#EXTINF:-1 tvg-name="一本道_71" tvg-logo="https://live.fanmingming.com/tv/一本道_71.png" group-title="一本道",一本道_71
+https://vip4.ddyunbo.com/20191128/J5nWdwcz/index.m3u8
+#EXTINF:-1 tvg-name="一本道_77" tvg-logo="https://live.fanmingming.com/tv/一本道_77.png" group-title="一本道",一本道_77
+https://vip4.ddyunbo.com/20191104/5Br1zP28/index.m3u8
+#EXTINF:-1 tvg-name="一本道_80" tvg-logo="https://live.fanmingming.com/tv/一本道_80.png" group-title="一本道",一本道_80
+https://vip4.ddyunbo.com/20191205/0oLr2jlQ/index.m3u8
+#EXTINF:-1 tvg-name="一本道_81" tvg-logo="https://live.fanmingming.com/tv/一本道_81.png" group-title="一本道",一本道_81
+https://vip4.ddyunbo.com/20191110/Z3mWJbrz/index.m3u8
+#EXTINF:-1 tvg-name="一本道_82" tvg-logo="https://live.fanmingming.com/tv/一本道_82.png" group-title="一本道",一本道_82
+https://vip4.ddyunbo.com/20190724/SRcabvNZ/index.m3u8
+#EXTINF:-1 tvg-name="一本道_83" tvg-logo="https://live.fanmingming.com/tv/一本道_83.png" group-title="一本道",一本道_83
+https://vip4.ddyunbo.com/20191127/52rP822O/index.m3u8
+#EXTINF:-1 tvg-name="一本道_84" tvg-logo="https://live.fanmingming.com/tv/一本道_84.png" group-title="一本道",一本道_84
+https://vip4.ddyunbo.com/20191207/p0zvtDBY/index.m3u8
+#EXTINF:-1 tvg-name="一本道_85" tvg-logo="https://live.fanmingming.com/tv/一本道_85.png" group-title="一本道",一本道_85
+https://vip4.ddyunbo.com/20191208/dw94ieYl/index.m3u8
+#EXTINF:-1 tvg-name="一本道_86" tvg-logo="https://live.fanmingming.com/tv/一本道_86.png" group-title="一本道",一本道_86
+https://vip4.ddyunbo.com/20190913/MA5Cn7rw/index.m3u8
+#EXTINF:-1 tvg-name="一本道_87" tvg-logo="https://live.fanmingming.com/tv/一本道_87.png" group-title="一本道",一本道_87
+https://vip4.ddyunbo.com/20191210/tyN6I80q/index.m3u8
+#EXTINF:-1 tvg-name="一本道_88" tvg-logo="https://live.fanmingming.com/tv/一本道_88.png" group-title="一本道",一本道_88
+https://vip4.ddyunbo.com/20191122/QMk66MvN/index.m3u8
+#EXTINF:-1 tvg-name="一本道_89" tvg-logo="https://live.fanmingming.com/tv/一本道_89.png" group-title="一本道",一本道_89
+https://vip4.ddyunbo.com/20191206/trGVPzmt/index.m3u8
+#EXTINF:-1 tvg-name="一本道_90" tvg-logo="https://live.fanmingming.com/tv/一本道_90.png" group-title="一本道",一本道_90
+https://vip4.ddyunbo.com/20191010/xcMAZOOw/index.m3u8
+#EXTINF:-1 tvg-name="一本道_91" tvg-logo="https://live.fanmingming.com/tv/一本道_91.png" group-title="一本道",一本道_91
+https://vip4.ddyunbo.com/20191207/tBB5RkgE/index.m3u8
+#EXTINF:-1 tvg-name="一本道_101" tvg-logo="https://live.fanmingming.com/tv/一本道_101.png" group-title="一本道",一本道_101
+https://vip4.ddyunbo.com/20190801/68w4hmaH/index.m3u8
+#EXTINF:-1 tvg-name="一本道_102" tvg-logo="https://live.fanmingming.com/tv/一本道_102.png" group-title="一本道",一本道_102
+https://vip4.ddyunbo.com/20191203/AdOtik4n/index.m3u8
+#EXTINF:-1 tvg-name="一本道_105" tvg-logo="https://live.fanmingming.com/tv/一本道_105.png" group-title="一本道",一本道_105
+https://vip4.ddyunbo.com/20191203/lrQfHler/index.m3u8
+#EXTINF:-1 tvg-name="一本道_106" tvg-logo="https://live.fanmingming.com/tv/一本道_106.png" group-title="一本道",一本道_106
+https://vip4.ddyunbo.com/20191203/5E24xFQu/index.m3u8
+#EXTINF:-1 tvg-name="一本道_107" tvg-logo="https://live.fanmingming.com/tv/一本道_107.png" group-title="一本道",一本道_107
+https://vip4.ddyunbo.com/20191206/wElIhu09/index.m3u8
+#EXTINF:-1 tvg-name="一本道_109" tvg-logo="https://live.fanmingming.com/tv/一本道_109.png" group-title="一本道",一本道_109
+https://vip4.ddyunbo.com/20191130/5D8rho9Y/index.m3u8
+#EXTINF:-1 tvg-name="一本道_110" tvg-logo="https://live.fanmingming.com/tv/一本道_110.png" group-title="一本道",一本道_110
+https://vip4.ddyunbo.com/20191125/b7iK6Oay/index.m3u8
+#EXTINF:-1 tvg-name="一本道_111" tvg-logo="https://live.fanmingming.com/tv/一本道_111.png" group-title="一本道",一本道_111
+https://vip4.ddyunbo.com/20191118/pa08NZI8/index.m3u8
+#EXTINF:-1 tvg-name="一本道_113" tvg-logo="https://live.fanmingming.com/tv/一本道_113.png" group-title="一本道",一本道_113
+https://vip4.ddyunbo.com/20191208/YoOOpIoB/index.m3u8
+#EXTINF:-1 tvg-name="一本道_114" tvg-logo="https://live.fanmingming.com/tv/一本道_114.png" group-title="一本道",一本道_114
+https://vip4.ddyunbo.com/20191206/KlOfpmXm/index.m3u8
+#EXTINF:-1 tvg-name="一本道_115" tvg-logo="https://live.fanmingming.com/tv/一本道_115.png" group-title="一本道",一本道_115
+https://vip4.ddyunbo.com/20191128/bhlfixkB/index.m3u8
+#EXTINF:-1 tvg-name="一本道_118" tvg-logo="https://live.fanmingming.com/tv/一本道_118.png" group-title="一本道",一本道_118
+https://vip4.ddyunbo.com/20191020/HFA1EICB/index.m3u8
+#EXTINF:-1 tvg-name="一本道_119" tvg-logo="https://live.fanmingming.com/tv/一本道_119.png" group-title="一本道",一本道_119
+https://vip4.ddyunbo.com/20190725/QoR2tEMa/index.m3u8
+#EXTINF:-1 tvg-name="一本道_123" tvg-logo="https://live.fanmingming.com/tv/一本道_123.png" group-title="一本道",一本道_123
+https://vip4.ddyunbo.com/20191206/beXglix7/index.m3u8
+#EXTINF:-1 tvg-name="一本道_132" tvg-logo="https://live.fanmingming.com/tv/一本道_132.png" group-title="一本道",一本道_132
+https://vip4.ddyunbo.com/20191008/aJt3osLQ/index.m3u8
+#EXTINF:-1 tvg-name="一本道_134" tvg-logo="https://live.fanmingming.com/tv/一本道_134.png" group-title="一本道",一本道_134
+https://vip4.ddyunbo.com/20190712/AWmTfG0V/index.m3u8
+#EXTINF:-1 tvg-name="一本道_137" tvg-logo="https://live.fanmingming.com/tv/一本道_137.png" group-title="一本道",一本道_137
+https://vip4.ddyunbo.com/20191205/ZhyfTfzD/index.m3u8
+#EXTINF:-1 tvg-name="一本道_138" tvg-logo="https://live.fanmingming.com/tv/一本道_138.png" group-title="一本道",一本道_138
+https://vip4.ddyunbo.com/20191209/Cg46YFFD/index.m3u8
+#EXTINF:-1 tvg-name="一本道_140" tvg-logo="https://live.fanmingming.com/tv/一本道_140.png" group-title="一本道",一本道_140
+https://vip4.ddyunbo.com/20191206/D2NceISA/index.m3u8
+#EXTINF:-1 tvg-name="一本道_141" tvg-logo="https://live.fanmingming.com/tv/一本道_141.png" group-title="一本道",一本道_141
+https://vip4.ddyunbo.com/20190703/TS1mxp2x/index.m3u8
+#EXTINF:-1 tvg-name="一本道_142" tvg-logo="https://live.fanmingming.com/tv/一本道_142.png" group-title="一本道",一本道_142
+https://vip4.ddyunbo.com/20191127/28kOylU9/index.m3u8
+#EXTINF:-1 tvg-name="一本道_143" tvg-logo="https://live.fanmingming.com/tv/一本道_143.png" group-title="一本道",一本道_143
+https://vip4.ddyunbo.com/20190924/1r6n6c3u/index.m3u8
+#EXTINF:-1 tvg-name="一本道_144" tvg-logo="https://live.fanmingming.com/tv/一本道_144.png" group-title="一本道",一本道_144
+https://vip4.ddyunbo.com/20191201/8UTueLDg/index.m3u8
+#EXTINF:-1 tvg-name="一本道_146" tvg-logo="https://live.fanmingming.com/tv/一本道_146.png" group-title="一本道",一本道_146
+https://vip4.ddyunbo.com/20191109/7zPRNKbZ/index.m3u8
+#EXTINF:-1 tvg-name="一本道_147" tvg-logo="https://live.fanmingming.com/tv/一本道_147.png" group-title="一本道",一本道_147
+https://vip4.ddyunbo.com/20191208/0gSaR7IX/index.m3u8
+#EXTINF:-1 tvg-name="一本道_149" tvg-logo="https://live.fanmingming.com/tv/一本道_149.png" group-title="一本道",一本道_149
+https://vip4.ddyunbo.com/20191108/iI37Slwz/index.m3u8
+#EXTINF:-1 tvg-name="一本道_151" tvg-logo="https://live.fanmingming.com/tv/一本道_151.png" group-title="一本道",一本道_151
+https://vip4.ddyunbo.com/20191206/DRjLLulI/index.m3u8
+#EXTINF:-1 tvg-name="一本道_152" tvg-logo="https://live.fanmingming.com/tv/一本道_152.png" group-title="一本道",一本道_152
+https://vip4.ddyunbo.com/20191208/F59kEATh/index.m3u8
+#EXTINF:-1 tvg-name="一本道_153" tvg-logo="https://live.fanmingming.com/tv/一本道_153.png" group-title="一本道",一本道_153
+https://vip4.ddyunbo.com/20191205/u11PSJcw/index.m3u8
+#EXTINF:-1 tvg-name="一本道_154" tvg-logo="https://live.fanmingming.com/tv/一本道_154.png" group-title="一本道",一本道_154
+https://vip4.ddyunbo.com/20191203/PldaO4lb/index.m3u8
+#EXTINF:-1 tvg-name="一本道_155" tvg-logo="https://live.fanmingming.com/tv/一本道_155.png" group-title="一本道",一本道_155
+https://vip4.ddyunbo.com/20191206/AYu0BDSt/index.m3u8
+#EXTINF:-1 tvg-name="一本道_156" tvg-logo="https://live.fanmingming.com/tv/一本道_156.png" group-title="一本道",一本道_156
+https://vip4.ddyunbo.com/20191211/M3q09qGG/index.m3u8
+#EXTINF:-1 tvg-name="一本道_163" tvg-logo="https://live.fanmingming.com/tv/一本道_163.png" group-title="一本道",一本道_163
+https://vip4.ddyunbo.com/20191121/5fNyVOF0/index.m3u8
+#EXTINF:-1 tvg-name="一本道_164" tvg-logo="https://live.fanmingming.com/tv/一本道_164.png" group-title="一本道",一本道_164
+https://vip4.ddyunbo.com/20191120/c3IW5efi/index.m3u8
+#EXTINF:-1 tvg-name="一本道_173" tvg-logo="https://live.fanmingming.com/tv/一本道_173.png" group-title="一本道",一本道_173
+https://vip4.ddyunbo.com/20191201/XJwjwidw/index.m3u8
+#EXTINF:-1 tvg-name="一本道_175" tvg-logo="https://live.fanmingming.com/tv/一本道_175.png" group-title="一本道",一本道_175
+https://vip4.ddyunbo.com/20190918/dW0J9fzv/index.m3u8
+#EXTINF:-1 tvg-name="一本道_176" tvg-logo="https://live.fanmingming.com/tv/一本道_176.png" group-title="一本道",一本道_176
+https://vip4.ddyunbo.com/20191125/vpMcTD6O/index.m3u8
+#EXTINF:-1 tvg-name="一本道_182" tvg-logo="https://live.fanmingming.com/tv/一本道_182.png" group-title="一本道",一本道_182
+https://vip4.ddyunbo.com/20191203/nYjY9u2u/index.m3u8
+#EXTINF:-1 tvg-name="一本道_186" tvg-logo="https://live.fanmingming.com/tv/一本道_186.png" group-title="一本道",一本道_186
+https://vip4.ddyunbo.com/20191110/7bbcTr2N/index.m3u8
+#EXTINF:-1 tvg-name="一本道_187" tvg-logo="https://live.fanmingming.com/tv/一本道_187.png" group-title="一本道",一本道_187
+https://vip4.ddyunbo.com/20191127/65PpXoMw/index.m3u8
+#EXTINF:-1 tvg-name="一本道_197" tvg-logo="https://live.fanmingming.com/tv/一本道_197.png" group-title="一本道",一本道_197
+https://vip4.ddyunbo.com/20190924/cJ5trNUQ/index.m3u8
+#EXTINF:-1 tvg-name="一本道_202" tvg-logo="https://live.fanmingming.com/tv/一本道_202.png" group-title="一本道",一本道_202
+https://vip4.ddyunbo.com/20191203/52ec89LM/index.m3u8
+#EXTINF:-1 tvg-name="一本道_207" tvg-logo="https://live.fanmingming.com/tv/一本道_207.png" group-title="一本道",一本道_207
+https://vip4.ddyunbo.com/20191206/KcxaHKNK/index.m3u8
+#EXTINF:-1 tvg-name="一本道_208" tvg-logo="https://live.fanmingming.com/tv/一本道_208.png" group-title="一本道",一本道_208
+https://vip4.ddyunbo.com/20191130/aACNUDUx/index.m3u8
+#EXTINF:-1 tvg-name="一本道_211" tvg-logo="https://live.fanmingming.com/tv/一本道_211.png" group-title="一本道",一本道_211
+https://vip4.ddyunbo.com/20191110/NwogQedH/index.m3u8
+#EXTINF:-1 tvg-name="一本道_219" tvg-logo="https://live.fanmingming.com/tv/一本道_219.png" group-title="一本道",一本道_219
+https://vip4.ddyunbo.com/20191201/Lwlr3Bkj/index.m3u8
+#EXTINF:-1 tvg-name="一本道_227" tvg-logo="https://live.fanmingming.com/tv/一本道_227.png" group-title="一本道",一本道_227
+https://vip4.ddyunbo.com/20191201/K4Kv3dAa/index.m3u8
+#EXTINF:-1 tvg-name="一本道_234" tvg-logo="https://live.fanmingming.com/tv/一本道_234.png" group-title="一本道",一本道_234
+https://vip4.ddyunbo.com/20191212/HePcXP5K/index.m3u8
+#EXTINF:-1 tvg-name="一本道_242" tvg-logo="https://live.fanmingming.com/tv/一本道_242.png" group-title="一本道",一本道_242
+https://vip4.ddyunbo.com/20191203/eBg5Mcqa/index.m3u8
+#EXTINF:-1 tvg-name="一本道_243" tvg-logo="https://live.fanmingming.com/tv/一本道_243.png" group-title="一本道",一本道_243
+https://vip4.ddyunbo.com/20191028/bnoZp1dl/index.m3u8
+#EXTINF:-1 tvg-name="一本道_249" tvg-logo="https://live.fanmingming.com/tv/一本道_249.png" group-title="一本道",一本道_249
+https://vip4.ddyunbo.com/20191102/E6lR5iaR/index.m3u8
+#EXTINF:-1 tvg-name="一本道_261" tvg-logo="https://live.fanmingming.com/tv/一本道_261.png" group-title="一本道",一本道_261
+https://vip4.ddyunbo.com/20190729/aN7GcbnY/index.m3u8
+#EXTINF:-1 tvg-name="一本道_264" tvg-logo="https://live.fanmingming.com/tv/一本道_264.png" group-title="一本道",一本道_264
+https://vip4.ddyunbo.com/20191201/YEg5oWil/index.m3u8
+#EXTINF:-1 tvg-name="一本道_268" tvg-logo="https://live.fanmingming.com/tv/一本道_268.png" group-title="一本道",一本道_268
+https://vip4.ddyunbo.com/20191208/BS0JwI5Z/index.m3u8
+#EXTINF:-1 tvg-name="一本道_274" tvg-logo="https://live.fanmingming.com/tv/一本道_274.png" group-title="一本道",一本道_274
+https://vip4.ddyunbo.com/20191102/thRqkr3J/index.m3u8
+#EXTINF:-1 tvg-name="一本道_275" tvg-logo="https://live.fanmingming.com/tv/一本道_275.png" group-title="一本道",一本道_275
+https://vip4.ddyunbo.com/20191008/ONnuL7h3/index.m3u8
+#EXTINF:-1 tvg-name="一本道_276" tvg-logo="https://live.fanmingming.com/tv/一本道_276.png" group-title="一本道",一本道_276
+https://vip4.ddyunbo.com/20190904/f9ADZ1CY/index.m3u8
+#EXTINF:-1 tvg-name="一本道_277" tvg-logo="https://live.fanmingming.com/tv/一本道_277.png" group-title="一本道",一本道_277
+https://vip4.ddyunbo.com/20190904/UfqniQi1/index.m3u8
+#EXTINF:-1 tvg-name="一本道_278" tvg-logo="https://live.fanmingming.com/tv/一本道_278.png" group-title="一本道",一本道_278
+https://vip4.ddyunbo.com/20191211/FFE0h29v/index.m3u8
+#EXTINF:-1 tvg-name="一本道_280" tvg-logo="https://live.fanmingming.com/tv/一本道_280.png" group-title="一本道",一本道_280
+https://vip4.ddyunbo.com/20191121/VmpUGI2G/index.m3u8
+#EXTINF:-1 tvg-name="一本道_281" tvg-logo="https://live.fanmingming.com/tv/一本道_281.png" group-title="一本道",一本道_281
+https://vip4.ddyunbo.com/20190909/jRVMH9sc/index.m3u8
+#EXTINF:-1 tvg-name="一本道_301" tvg-logo="https://live.fanmingming.com/tv/一本道_301.png" group-title="一本道",一本道_301
+https://vip4.ddyunbo.com/20191213/J6Cv9gPJ/index.m3u8
+#EXTINF:-1 tvg-name="一本道_305" tvg-logo="https://live.fanmingming.com/tv/一本道_305.png" group-title="一本道",一本道_305
+https://vip4.ddyunbo.com/20191128/dkDIOfQC/index.m3u8
+#EXTINF:-1 tvg-name="一本道_306" tvg-logo="https://live.fanmingming.com/tv/一本道_306.png" group-title="一本道",一本道_306
+https://vip4.ddyunbo.com/20191130/c6PcG5MJ/index.m3u8
+#EXTINF:-1 tvg-name="一本道_309" tvg-logo="https://live.fanmingming.com/tv/一本道_309.png" group-title="一本道",一本道_309
+https://vip4.ddyunbo.com/20191111/DlyNFtz9/index.m3u8
+#EXTINF:-1 tvg-name="一本道_310" tvg-logo="https://live.fanmingming.com/tv/一本道_310.png" group-title="一本道",一本道_310
+https://vip4.ddyunbo.com/20191106/yFE2T1bI/index.m3u8
+#EXTINF:-1 tvg-name="一本道_311" tvg-logo="https://live.fanmingming.com/tv/一本道_311.png" group-title="一本道",一本道_311
+https://vip4.ddyunbo.com/20191128/0UFCYn1m/index.m3u8
+#EXTINF:-1 tvg-name="一本道_313" tvg-logo="https://live.fanmingming.com/tv/一本道_313.png" group-title="一本道",一本道_313
+https://vip4.ddyunbo.com/20191208/2uX0tXFP/index.m3u8
+#EXTINF:-1 tvg-name="一本道_314" tvg-logo="https://live.fanmingming.com/tv/一本道_314.png" group-title="一本道",一本道_314
+https://vip4.ddyunbo.com/20191112/xgfe7yP7/index.m3u8
+#EXTINF:-1 tvg-name="一本道_315" tvg-logo="https://live.fanmingming.com/tv/一本道_315.png" group-title="一本道",一本道_315
+https://vip4.ddyunbo.com/20191204/vbdhMyr9/index.m3u8
+#EXTINF:-1 tvg-name="一本道_317" tvg-logo="https://live.fanmingming.com/tv/一本道_317.png" group-title="一本道",一本道_317
+https://vip4.ddyunbo.com/20191211/mKHj4MjF/index.m3u8
+#EXTINF:-1 tvg-name="一本道_396" tvg-logo="https://live.fanmingming.com/tv/一本道_396.png" group-title="一本道",一本道_396
+https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
+#EXTINF:-1 tvg-name="一本道_404" tvg-logo="https://live.fanmingming.com/tv/一本道_404.png" group-title="一本道",一本道_404
+https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
+#EXTINF:-1 tvg-name="一本道_405" tvg-logo="https://live.fanmingming.com/tv/一本道_405.png" group-title="一本道",一本道_405
+https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
